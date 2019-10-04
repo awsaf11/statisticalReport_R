@@ -1,0 +1,2 @@
+## Statistical Report Using R
+  This report summarizes the statistical and analysis results on bike sharing systems. It shows the usage of bikes based on different temperatures over the 2 years 2011 and 2012. The purpose of this report is to predict the bike rentals based on the temperature and test the difference between bike rental from casual and registered users. A lot of variables come into play of the number of bike rentals such as time of the day, season, weekends, working days etc. 
